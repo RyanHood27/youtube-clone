@@ -1,0 +1,34 @@
+					#Main (M)
+(A)	                (H)
+#Aside(left)        |#Header
+.Al-boxChild1       |.H-boxParent1 (hbP1)
+.Al-icon1	        |.h-bParent1-logo | .Hbp1-p1 | .Hbp1-inputField1 | .Hbp1-btnIcon1 | .Hbp1-icon1 | .Hbp1-icon2 | .Hbp1-icon3 | .Hbp1-icon4 | .Hbp1-gmail
+		            |.H-boxParent2 (hbP2)
+.Al-boxChild2       |.h-bParent2-child1-btn1 |.Hbp2-child2-btn2 |.Hbp2-child3-btn3 |.Hbp2-child4-btn4 |.Hbp2-child5-btn5 |.Hbp2-child6-btn6 |
+.Al-icon2			|.m-boxContainer (mbCont)
+.Al-p2              |.bCont-boxParent (mbP1)
+        	        |.bParent-bChild1-img1
+.Al-boxChild3    	|.bParent-bChild2-child1-img2	|.bParent-bChild2-child2-title
+.Al-icon3											|.bParent-bChild2-child2-author
+.Al-p3        					                	|.bParent-bChild2-child2-stats
+            				                    	
+.Al-boxChild4
+.Al-icon4
+.Al-p4
+					
+.Al-boxChild5			    Note:
+.Al-icon5				    #Header	                =   H
+.Al-p5				        .Header box parent	    =   .H-boxParent   |   .HbP
+					        .Header box child	    =   .HbC
+.Al-boxChild6			    #Aside (left)		    =   A
+.Al-icon6					.Aside left		        =   .Al
+.Al-p6			            .Aside left box child	=   .Al-boxChild
+					        .Aside left icon		=   .Al-icon
+						    .Aside left paragraph	=   .Al-p
+						    #Main			        =   M
+						    .Main box parent	    =   .M-boxParent   |   .Mbp
+
+						    Repeat Main box parent 4x to the left
+
+
+GitHub repository: https://github.com/RyanHood27/youtube-clone
